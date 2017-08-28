@@ -1,5 +1,5 @@
 # Predicting-consumer-subscription-term-deposit
-To view the Ipython Notebook as HTML on browser prepend with http://htmlpreview.github.com/?
+
 
 Predicting consumers subscription by analyzing Bank Marketing data set using ML. Case study of Decision Tree vs Logistic Regression for classification
 Source : https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
